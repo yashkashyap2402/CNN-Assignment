@@ -1,3 +1,4 @@
+# Week 3 - Part 2 Model Comparison
 | Model           | Accuracy |
 | --------------- | -------- |
 | Baseline CNN    | 68.59%   |
